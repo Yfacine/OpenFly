@@ -2,7 +2,7 @@
 
 ![Simulex·Contam 학습 · PASS_AI-FLY의 흑백 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/49de0028cf64f6f32ef9803bf0e321bc1d10ff19/assets/covers/v0.1/PASS_AI-FLY.svg)
 
-OpenFly의 Simulex·Contam 학습 주제를 다루는 저장소입니다. 로컬 프로젝트 폴더는 `E:\OpenFly`로 변경했습니다. GitHub 저장소 이름은 `PASS_AI-FLY`를 유지합니다.
+OpenFly의 Simulex·Contam 학습 주제를 다루는 저장소입니다.
 
 **현재 상태 · 소개 문서만 공개**
 
