@@ -1,8 +1,8 @@
 # OpenFly
 
-![Simulex·Contam 학습 주제의 흑백 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/49de0028cf64f6f32ef9803bf0e321bc1d10ff19/assets/covers/v0.1/PASS_AI-FLY.svg)
+![OpenFly 학습 플랫폼 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/665ee7e/assets/covers/v0.1/OpenFly.svg)
 
-OpenFly의 Simulex·Contam 학습 주제를 다루는 저장소입니다.
+OpenFly의 분야별 학습과 평가·적용을 위한 계획을 소개하는 저장소입니다.
 
 **현재 상태 · 소개 문서만 공개**
 
@@ -16,6 +16,4 @@ OpenFly의 Simulex·Contam 학습 주제를 다루는 저장소입니다.
 
 ## 03 / 관련 링크
 
-- [CRAFT-Simulex](https://github.com/Yfacine/CRAFT-Simulex)
-- [CRAFT-Contam](https://github.com/Yfacine/CRAFT-Contam)
 - [Yfacine Overview](https://github.com/Yfacine?tab=overview)
