@@ -1,6 +1,6 @@
 # PASS_AI-FLY
 
-![Simulex·Contam 학습 · PASS_AI-FLY의 흑백 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/4225c2a517e5917cab196b11c5817a3ab532f08d/assets/repositories/PASS_AI-FLY.webp)
+![Simulex·Contam 학습 · PASS_AI-FLY의 흑백 표지](https://raw.githubusercontent.com/Yfacine/Yfacine/49de0028cf64f6f32ef9803bf0e321bc1d10ff19/assets/covers/v0.1/PASS_AI-FLY.svg)
 
 Simulex·Contam 학습 주제를 다루는 저장소입니다.
 
